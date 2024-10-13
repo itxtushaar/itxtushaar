@@ -1,4 +1,4 @@
-![logo](https://github.com/itxtushaar/itxtushaar/blob/main/1719126974289.jpeg)
+![logo]([https://github.com/itxtushaar/itxtushaar/blob/main/1719126974289.jpeg](https://github.com/itxtushaar/itxtushaar/blob/main/1719126974289.jpeg.png))
 <h1 align="center">Hi 👋, I'm Tushar Kumar Tiwari</h1>
 <h3 align="center">Software Testing Intern @Nothing Tech & CSE Under Grad @Galgotias University(2025)</h3>
 
