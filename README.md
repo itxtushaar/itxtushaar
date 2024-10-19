@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itxtushaar](https://github.com/itxtushaar)
+- 👨‍💻 All of my projects are available here!
 
 - 📫 How to reach me **tiwaritushar67@gmail.com**
 
