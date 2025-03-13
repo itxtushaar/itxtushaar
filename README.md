@@ -1,6 +1,6 @@
 ![logo](https://github.com/itxtushaar/itxtushaar/blob/main/1719126974289.jpeg.png)
 <h1 align="center">Hi 👋, I'm Tushar Kumar Tiwari</h1>
-<h3 align="center">Software Testing Intern @Nothing Tech & CSE Under Grad @Galgotias University(2025)</h3>
+<h3 align="center">Camera Development Engineer @ A1QA,Ex - Software Testing Intern @Nothing Tech & CSE Under Grad @Galgotias University(2025)</h3>
 
 <img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyp4us_exe" target="blank"><img src="https://img.shields.io/twitter/follow/cyp4us_exe?logo=twitter&style=for-the-badge" alt="cyp4us_exe" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** **Unreal Engine**
 
 - 👨‍💻 All of my projects are available here!
 
